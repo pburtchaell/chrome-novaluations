@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Novaluations: Hide Course Evaluations",
+  "short_name": "Novaluations",
+  "description": "This extension hides course evaluations on BlackBoard.",
+  "version": "0.0.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Novaluations"
+  },
+  "content_scripts": [
+    {
+    "matches": ["https://*.blackboard.com/*"],
+    "js": ["background.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "debugger"
+  ]
+}
