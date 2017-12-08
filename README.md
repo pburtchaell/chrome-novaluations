@@ -2,7 +2,7 @@
 
 This is a Chrome extension that hides the course evaluations modal on BlackBoard until the day finals start.
 
-![](https://raw.githubusercontent.com/pburtchaell/novaluations/master/screenshot.png)
+![BlackBoard screenshot](/screenshots/002-close-up.png)
 
 ---
-Copyright (c) 2016 Patrick Burtchaell. [Licensed with The MIT License (MIT)](https://raw.githubusercontent.com/pburtchaell/novaluations/master/LICENSE). [Gratipay](https://gratipay.com/~pburtchaell/).
+Copyright (c) 2016-2017 Patrick Burtchaell. [Licensed (MIT)](/LICENSE).
